@@ -245,6 +245,13 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>NxPKG</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/liss-bot">
+            <img src="https://avatars.githubusercontent.com/u/87835202?v=4" width="80;" alt="liss-bot"/>
+            <br />
+            <sub><b>Alicia Bot</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
